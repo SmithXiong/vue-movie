@@ -1,6 +1,6 @@
-# vue-news
+# vue-movie
 
-> A Vue.js project
+> A Vue.js project 模仿豆瓣电影，使用vue-router管理路由，使用豆瓣电影api
 
 ## Build Setup
 
